@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/winterlood.github.io/static/css/main.ab91e2da.chunk.css",
-    "main.js": "/winterlood.github.io/static/js/main.e6ca0f37.chunk.js",
-    "main.js.map": "/winterlood.github.io/static/js/main.e6ca0f37.chunk.js.map",
-    "runtime-main.js": "/winterlood.github.io/static/js/runtime-main.21f8ae64.js",
-    "runtime-main.js.map": "/winterlood.github.io/static/js/runtime-main.21f8ae64.js.map",
-    "static/css/2.de424728.chunk.css": "/winterlood.github.io/static/css/2.de424728.chunk.css",
-    "static/js/2.f9a7e5cc.chunk.js": "/winterlood.github.io/static/js/2.f9a7e5cc.chunk.js",
-    "static/js/2.f9a7e5cc.chunk.js.map": "/winterlood.github.io/static/js/2.f9a7e5cc.chunk.js.map",
-    "index.html": "/winterlood.github.io/index.html",
-    "precache-manifest.101c12fac19b2f5c1d484f6c3bd573e6.js": "/winterlood.github.io/precache-manifest.101c12fac19b2f5c1d484f6c3bd573e6.js",
-    "service-worker.js": "/winterlood.github.io/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/winterlood.github.io/static/css/2.de424728.chunk.css.map",
-    "static/css/main.ab91e2da.chunk.css.map": "/winterlood.github.io/static/css/main.ab91e2da.chunk.css.map",
-    "static/js/2.f9a7e5cc.chunk.js.LICENSE.txt": "/winterlood.github.io/static/js/2.f9a7e5cc.chunk.js.LICENSE.txt"
+    "main.css": "/sys-monitor-deploy/static/css/main.ab91e2da.chunk.css",
+    "main.js": "/sys-monitor-deploy/static/js/main.2d1b181b.chunk.js",
+    "main.js.map": "/sys-monitor-deploy/static/js/main.2d1b181b.chunk.js.map",
+    "runtime-main.js": "/sys-monitor-deploy/static/js/runtime-main.978adccf.js",
+    "runtime-main.js.map": "/sys-monitor-deploy/static/js/runtime-main.978adccf.js.map",
+    "static/css/2.de424728.chunk.css": "/sys-monitor-deploy/static/css/2.de424728.chunk.css",
+    "static/js/2.e8da34c2.chunk.js": "/sys-monitor-deploy/static/js/2.e8da34c2.chunk.js",
+    "static/js/2.e8da34c2.chunk.js.map": "/sys-monitor-deploy/static/js/2.e8da34c2.chunk.js.map",
+    "index.html": "/sys-monitor-deploy/index.html",
+    "precache-manifest.a9ff6be28a9c207b1714125274638374.js": "/sys-monitor-deploy/precache-manifest.a9ff6be28a9c207b1714125274638374.js",
+    "service-worker.js": "/sys-monitor-deploy/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/sys-monitor-deploy/static/css/2.de424728.chunk.css.map",
+    "static/css/main.ab91e2da.chunk.css.map": "/sys-monitor-deploy/static/css/main.ab91e2da.chunk.css.map",
+    "static/js/2.e8da34c2.chunk.js.LICENSE.txt": "/sys-monitor-deploy/static/js/2.e8da34c2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.21f8ae64.js",
+    "static/js/runtime-main.978adccf.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.f9a7e5cc.chunk.js",
+    "static/js/2.e8da34c2.chunk.js",
     "static/css/main.ab91e2da.chunk.css",
-    "static/js/main.e6ca0f37.chunk.js"
+    "static/js/main.2d1b181b.chunk.js"
   ]
 }
