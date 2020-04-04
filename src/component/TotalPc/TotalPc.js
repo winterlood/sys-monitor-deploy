@@ -13,7 +13,7 @@ const TotalPc = ({ isPolling ,handlePolling}) => {
     const [pcs, setPcs] = useState(null);
 
     const getPcs = () => {
-        axios.get("mobile/pc")
+        axios.get("http://13.125.208.19/mobile/pc")
             .then((response) => {
                 // console.log(response);
                 // console.log(response.data.pcs);
