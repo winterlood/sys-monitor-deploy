@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { HashRouter , Route, Link} from 'react-router-dom';
 import './App.css';
 import MyRouter from './MyRouter';
 class App extends Component {
@@ -45,12 +46,14 @@ class App extends Component {
       })
     };
     return (
+      <HashRouter basename="/">
       <MyRouter
         authenticated={this.state.authenticated} 
         saveLoginState={saveLoginState} 
         logout={logout}
         isPolling={this.state.isPolling}
         handlePolling={handlePolling} />
+        </HashRouter>
     );
   }
 }

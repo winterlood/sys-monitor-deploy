@@ -15,14 +15,14 @@ const MyRouter = ({ saveLoginState, user, authenticated, isPolling, handlePollin
                 <div className="main-wrapper">
                     <Switch>
                         <Route
-                            path="/sys-monitor-deploy/login"
+                            path="/login"
                             render={props => (
                                 <Login authenticated={authenticated} saveLoginState={saveLoginState} {...props} />
                             )}
                         />
                         <AuthRoute
                             authenticated={authenticated}
-                            path="/sys-monitor-deploy/"
+                            path="/"
                             render={props => <TotalPc user={user} isPolling={isPolling} handlePolling={handlePolling} {...props} />}
                         />
                         <Route path="/one" component={One} />
