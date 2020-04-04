@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/winterlood.github.io/static/css/main.ab91e2da.chunk.css",
+    "main.js": "/winterlood.github.io/static/js/main.e6ca0f37.chunk.js",
+    "main.js.map": "/winterlood.github.io/static/js/main.e6ca0f37.chunk.js.map",
+    "runtime-main.js": "/winterlood.github.io/static/js/runtime-main.21f8ae64.js",
+    "runtime-main.js.map": "/winterlood.github.io/static/js/runtime-main.21f8ae64.js.map",
+    "static/css/2.de424728.chunk.css": "/winterlood.github.io/static/css/2.de424728.chunk.css",
+    "static/js/2.f9a7e5cc.chunk.js": "/winterlood.github.io/static/js/2.f9a7e5cc.chunk.js",
+    "static/js/2.f9a7e5cc.chunk.js.map": "/winterlood.github.io/static/js/2.f9a7e5cc.chunk.js.map",
+    "index.html": "/winterlood.github.io/index.html",
+    "precache-manifest.101c12fac19b2f5c1d484f6c3bd573e6.js": "/winterlood.github.io/precache-manifest.101c12fac19b2f5c1d484f6c3bd573e6.js",
+    "service-worker.js": "/winterlood.github.io/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/winterlood.github.io/static/css/2.de424728.chunk.css.map",
+    "static/css/main.ab91e2da.chunk.css.map": "/winterlood.github.io/static/css/main.ab91e2da.chunk.css.map",
+    "static/js/2.f9a7e5cc.chunk.js.LICENSE.txt": "/winterlood.github.io/static/js/2.f9a7e5cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21f8ae64.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.f9a7e5cc.chunk.js",
+    "static/css/main.ab91e2da.chunk.css",
+    "static/js/main.e6ca0f37.chunk.js"
+  ]
+}
