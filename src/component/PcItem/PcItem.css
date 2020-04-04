@@ -1,0 +1,126 @@
+
+.pc-item-wrapper{
+    height: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 100%;
+    background-color: white;
+    margin-bottom: 10px;
+    background-color:white;
+    border: gray;
+    border-bottom: 1px;
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    border-radius: 3px;
+    box-shadow: 0 1px 3px rgba(189, 189, 189, 0.16), 0 3px 6px rgba(187, 187, 187, 0.23);
+}
+button{
+    border: 0;
+    width: 100%;
+}
+
+.pc-item-wrapper .id-span{
+    font-size: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.pc-item-wrapper .update-log{
+    margin-left: 10px;
+    font-size: 11px;
+    color:gray
+}
+
+.pc-item-wrapper .pc-off-alert-box{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.pc-item-wrapper .id-box p{
+    font-size: x-large;
+}
+
+.pc-item-wrapper .on-light{
+    float: left;
+    height: 100%;
+    width: 2px;
+    margin-right: 10px;
+    background-color: blue;
+}
+
+.pc-item-wrapper .off-light{
+    float: left;
+    height: 100%;
+    width: 2px;
+    margin-right: 10px;
+    background-color: gray;
+}
+
+.pc-item-wrapper .expand-button{
+    height:30px;
+    float: right;
+    font-size: 12px;
+    border: 0;
+    color: rgb(54, 54, 54);
+    width: 30%;
+    background-color: rgb(199, 199, 199);
+}
+
+ 
+.pc-item-wrapper .info-text-box{
+    color:gray;
+    text-align: center;
+    font-size: 12px;
+}
+
+.pc-item-wrapper .value-text-box{
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+    margin-top: -15px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.pc-item-wrapper .collapse-item-box{
+    overflow: hidden;
+}
+
+.pc-item-wrapper .collapse-item-wrapper{
+    margin-bottom: 20px;
+
+}
+
+.pc-item-wrapper .usage-over-90{
+    color: rgb(236, 104, 104);
+    font-size: 10px;
+    text-align: center;
+}
+.pc-item-wrapper .usage-over-70{
+    color: rgb(238, 133, 92);
+    font-size: 10px;
+    text-align: center;
+}
+.pc-item-wrapper .usage-over-50{
+    color: rgb(126, 126, 126);
+    font-size: 10px;
+    text-align: center;
+}
+.pc-item-wrapper .usage-over-30{
+    color: rgb(144, 144, 144);
+    font-size: 10px;
+    text-align: center;
+}
+.pc-item-wrapper .usage-over-10{
+    color: rgb(52, 55, 240);
+    font-size: 10px;
+    text-align: center;
+}
+.pc-item-wrapper .usage-over-0{
+    color: rgb(141, 141, 141);
+    font-size: 10px;
+    text-align: center;
+}
+
+.pc-item-wrapper .data-progress-box{
+    margin-bottom: 10px;
+}
